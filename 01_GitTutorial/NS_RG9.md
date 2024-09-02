@@ -8,3 +8,6 @@
 
 3. **Question:**
    - How do I resolve conflicts in pull requests when working with a team?
+
+##Secret message: 
+**Extra credit for using Git throughout the course!** 
